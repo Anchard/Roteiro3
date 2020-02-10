@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1581372072 source:c:\users\lucas\documents\codes\q2\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1581370432 source:c:\users\lucas\documents\codes\q2\src\iconta.cpp
+	"IConta.h"
+
+1581370629 c:\users\lucas\documents\codes\q2\include\iconta.h
+	<string>
+
+1581371968 source:c:\users\lucas\documents\codes\q2\src\conta.cpp
+	"Conta.h"
+	<iostream>
+	<string>
+	"IConta.h"
+
+1581370629 c:\users\lucas\documents\codes\q2\include\conta.h
+	"IConta.h"
+	<string>
+
+1581371706 source:c:\users\lucas\documents\codes\q2\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1581371419 c:\users\lucas\documents\codes\q2\include\contaespecial.h
+	"Conta.h"
+	<string>
+
