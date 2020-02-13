@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1581554327 source:c:\users\lucas\documents\codes\q4\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+	"SistemaGerenciaFolha.h"
+
+1581536183 source:c:\users\lucas\documents\codes\q4\src\funcionario.cpp
+	"Funcionario.h"
+	<string>
+
+1581536137 c:\users\lucas\documents\codes\q4\include\funcionario.h
+	<string>
+
+1581537024 source:c:\users\lucas\documents\codes\q4\src\assalariado.cpp
+	"Assalariado.h"
+	<iostream>
+	<string>
+
+1581537266 c:\users\lucas\documents\codes\q4\include\assalariado.h
+	<string>
+	"Funcionario.h"
+
+1581543062 source:c:\users\lucas\documents\codes\q4\src\horista.cpp
+	"Horista.h"
+	<iostream>
+	<string>
+
+1581537257 c:\users\lucas\documents\codes\q4\include\horista.h
+	<string>
+	"Funcionario.h"
+
+1581544535 source:c:\users\lucas\documents\codes\q4\src\comissionado.cpp
+	"Comissionado.h"
+	<iostream>
+	<string>
+
+1581543981 c:\users\lucas\documents\codes\q4\include\comissionado.h
+	<string>
+	"Funcionario.h"
+
+1581554345 source:c:\users\lucas\documents\codes\q4\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	<iostream>
+	<string>
+
+1581553286 c:\users\lucas\documents\codes\q4\include\sistemagerenciafolha.h
+	<iostream>
+	<string>
+	<vector>
+	"Funcionario.h"
+
